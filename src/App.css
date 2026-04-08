@@ -1,0 +1,32 @@
+/* App.css */
+h1 {
+  font-size: 3rem;
+  text-align: center;
+}
+
+.flex-nav {
+  background-color: #0f3d3e;
+}
+
+.flex-nav ul {
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+  margin: 0;
+  padding: 0 20px;
+}
+
+.flex-nav li {
+  padding: 15px 10px;
+  font-size: large;
+}
+
+.flex-nav a {
+  text-decoration: none;
+  color:burlywood;
+  font-weight: bold;
+}
+
+.flex-nav a:hover {
+  color: #2ec4b6;
+}

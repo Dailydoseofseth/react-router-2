@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Allkin&family=Bitcount+Ink:wght@100..900&family=Bungee+Spice&family=Butcherman&family=Cabin:ital,wght@0,400..700;1,400..700&family=Caesar+Dressing&family=Diplomata&family=Fascinate&family=Faster+One&family=Henny+Penny&family=Honk:MORF@15&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Moo+Lah+Lah&family=Nabla&family=Nosifer&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Oswald:wght@200..700&family=Playwrite+US+Trad+Guides&family=Rubik+80s+Fade&family=Rubik+Beastly&family=Rubik+Burned&family=Snowburst+One&family=Whisper&family=Workbench&display=swap");
+
+body {
+  margin: 0;
+  background-color: #d4ddd6;
+  background-image: url("https://miro.medium.com/v2/resize:fit:1400/format:webp/0*YeaUsQyhXSL1TCTH.png");
+  background-repeat: no-repeat;
+  background-position: center bottom 120%;
+  background-size: 60% auto;
+  font-family: "Rubik 80s Fade", sans-serif;
+  color: rgb(20, 102, 79);
+}
