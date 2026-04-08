@@ -30,3 +30,15 @@ h1 {
 .flex-nav a:hover {
   color: #2ec4b6;
 }
+
+
+/* .hero-h1 {
+  width: 100%;
+  overflow: hidden; keeps it neat if image is bigger
+}
+.hero-h1 img {
+  width: 100%;       stretches across full screen
+  height: auto;      maintains aspect ratio
+  display: block;    removes small inline spacing
+  object-fit: cover; makes it cover the container nicely if height is forced
+} */
