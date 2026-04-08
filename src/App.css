@@ -32,13 +32,14 @@ h1 {
 }
 
 
-/* .hero-h1 {
+.hero-h1 {
   width: 100%;
-  overflow: hidden; keeps it neat if image is bigger
-}
+  overflow: hidden; 
+  text-align: center;
+} 
 .hero-h1 img {
-  width: 100%;       stretches across full screen
-  height: auto;      maintains aspect ratio
-  display: block;    removes small inline spacing
-  object-fit: cover; makes it cover the container nicely if height is forced
-} */
+  width: 100%;     
+  height: auto;    
+  display: block;
+  object-fit: cover;
+} 
