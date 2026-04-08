@@ -2,7 +2,8 @@
 
 body {
   margin: 0;
-  background-color: #d4ddd6;
+  padding: 2rem;
+  background-color: #fafafa;
   display: grid;
   /* background-image: url("https://miro.medium.com/v2/resize:fit:1400/format:webp/0*YeaUsQyhXSL1TCTH.png");
   background-repeat: no-repeat;
